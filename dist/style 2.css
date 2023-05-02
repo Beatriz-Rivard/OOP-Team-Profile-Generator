@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eee2df;
+  }
+
+  h1, footer {
+    justify-content: center;
+    text-align: center;
+    background-color: #b36a5e;
+    padding: 1rem;
+  }
+
+  .g-col-4 {
+    justify-content: center;
+    display: center;
+    background-color: #eee2df;
+    
+  }
+
+  p {
+   text-align: center;
+  }
+
+  
